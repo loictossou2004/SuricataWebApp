@@ -1,14 +1,13 @@
 <p align="center">
-    <img src="image/password.png" height="120px"/>
+    <!-- <img src="image/password.png" height="120px"/> -->
     <h1 align="center">SuricataWebApp</h1>
     <h4 align="center">
       Testez vos alertes suricata
     </h4>
     <div align="center">
         <img  src="https://img.shields.io/badge/Nodejs-greenlight?logo=Node.js&logoColor=white" alt="Nodejs">
-        <img  src="https://img.shields.io/badge/MySQL-purple?logo=MySQL&logoColor=white" alt="Static Badge">
-        <img src="https://img.shields.io/badge/React-blue?logo=React
-        ">
+        <img  src="https://img.shields.io/badge/MySQL-purple?logo=MySQL&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/React-blue?logo=React" alt="React">
         <img src="https://img.shields.io/badge/Suricata-orange">
     </div>
   <br>
